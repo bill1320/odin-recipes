@@ -12,7 +12,12 @@ h1 {
   text-align: center;
 }
 
+.chili-pic {
+  text-align: center;
+  width: 300px;
+  height: auto;
+}
+
 img {
-  height: 200;
-  width: auto;
+  object-fit: cover;
 }
