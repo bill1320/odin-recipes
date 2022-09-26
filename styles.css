@@ -12,12 +12,13 @@ h1 {
   text-align: center;
 }
 
-.chili-pic {
-  text-align: center;
-  width: 300px;
-  height: auto;
+.recipe-pic {
+  display: flex;
+  height: 200px;
+  width: auto;
+  justify-content: center;
+  padding-bottom: 10px;
 }
 
-img {
-  object-fit: cover;
-}
+
+
